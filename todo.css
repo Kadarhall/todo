@@ -1,0 +1,49 @@
+.done {
+	text-decoration: line-through;
+	color: #ccc;
+}
+
+body {
+	background-color: #E6E6E6;
+	font-family: Garamond, sans-serif;
+}
+
+.nav {
+	background-color: #404040;
+	position: relative;
+	height: 64px;
+	font-size: 40px;
+	font-family: Garamond, sans-serif;
+	color: #fff;
+	padding: 10px;
+}
+
+.todo {
+	color: white;
+	position: absolute;
+	top: 20%;
+	margin-left: 30%;
+	font-size: 48px;
+
+}
+
+ul {
+	list-style-type: none;
+	color: black;
+}
+
+li {
+	font-size: 48px;
+}
+
+input {
+	font-size: 48px;
+	border-radius: 30px;
+}
+
+button {
+	font-size: 30px;
+	padding: 10px;
+	margin: 10px;
+	background-color: #E6E6E6;
+}
